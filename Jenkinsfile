@@ -1,3 +1,6 @@
+environment {
+    PATH+JAVA21 = '/usr/lib/jvm/java-21-amazon-corretto.x86_64/bin'
+}
 pipeline {
     agent any
 
